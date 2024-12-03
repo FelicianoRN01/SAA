@@ -32,4 +32,3 @@ merged_data <- merged_data %>%
 
 # Mostrar los datos
 print(merged_data)
-
